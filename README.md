@@ -15,3 +15,5 @@ module.exports = (on, config) => {
   })
 }
 ```
+
+JenkinsBuild.png:- jenkins Build Cucumber reports snapshot
